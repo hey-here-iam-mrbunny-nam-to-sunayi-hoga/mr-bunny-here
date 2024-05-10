@@ -1,7 +1,7 @@
 services:
   # A Docker web service
   - type: web
-    name: test
+    name: mr-bunny-here
     runtime: python
     plan: free
     autoDeploy: false
